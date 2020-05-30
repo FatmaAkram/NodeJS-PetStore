@@ -7,7 +7,7 @@
 - Clone/Download the project .
 #### For AuctionEndPoints Folder :
 - Install dependencies using ``` npm install ```
-- Run server using on localhost ``` npm run server```<br>
+- Run server on localhost using``` npm run server```<br>
 - To bid on some pet with pet id:  POST api/pets/bid/:id<br>
 ex : `http://localhost:5000/api/pets/bids/1`<br>
 with body: `{ "user_id": "1", "bid_amount": "500"} `
