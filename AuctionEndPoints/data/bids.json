@@ -1,0 +1,12 @@
+[
+  {
+    "user_id": 1,
+    "pet_id": 1,
+    "bid_amount": 5000
+  },
+  {
+    "user_id": 2,
+    "pet_id": 1,
+    "bid_amount": 5400
+  }
+]
